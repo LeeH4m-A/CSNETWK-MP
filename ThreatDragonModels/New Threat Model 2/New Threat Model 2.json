@@ -115,6 +115,13 @@
                 "80194771-7353-4212-9ee7-48b102f3bff3",
                 "94109542-6be7-4a40-b5a3-a1c082dc06b8"
               ]
+            },
+            "tools": {
+              "items": [
+                "boundary",
+                "button-remove"
+              ],
+              "name": null
             }
           },
           {
