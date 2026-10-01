@@ -1152,7 +1152,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Insert Feedback Comments",
+              "name": "User Sends User Credentials",
               "description": "",
               "outOfScope": false,
               "isTrustBoundary": false,
@@ -1166,7 +1166,7 @@
               "trustBoundaryIds": []
             },
             "labels": [
-              "Insert Feedback Comments"
+              "User Sends User Credentials"
             ],
             "id": "d331f59d-c8af-4d83-bbb3-155c2a4d3787",
             "source": {
